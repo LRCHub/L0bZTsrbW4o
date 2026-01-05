@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "FAKE SOUL",
+  "base_artist": "FAKE TYPE.",
+  "createdAt": "2026-01-05T04:32:20.806002Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FAKE SOUL",
+      "artist": "FAKE TYPE.",
+      "has_synced": false,
+      "path": "select/01_FAKE_SOUL_FAKE_TYPE..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FAKE SOUL",
+      "artist": "FAKE TYPE.",
+      "has_synced": false,
+      "path": "select/pl_01_FAKE_SOUL_FAKE_TYPE..txt"
+    }
+  ]
+}
